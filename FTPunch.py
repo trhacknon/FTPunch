@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #!/usr/env python2
 
-# Copyright by M-XacT-666
+# Copyright by Trhacknon
 ''' Script Kiddie, learn this script and modify with Your own style.
     Do not Paste and Copy it.
     Changing the Variabel and the Author Name didn't make You be a Programmer '''
@@ -68,7 +68,7 @@ print '''
   [[  \_()_/  ]]
  ||   |    |   ||   FTPunch.py ---> FTP Account
  ||   |    |   ||                   BruteForcer
- ||   |____|   ||   Coded by M-XacT-666 (copyright)
+ ||   |____|   ||   Coded by Trhacknon (copyright)
   [[  / || \  ]]
    `:/  ||  \;
         ||
@@ -221,7 +221,7 @@ except:
 	jeda()
 	exit()
 
-# Copyright by M-XacT-666
+# Copyright by Trhacknon
 ''' Script Kiddie, learn this script and modify with Your own style.
     Do not Paste and Copy it.
     Changing the Variabel and the Author Name didn't make You be a Programmer '''
