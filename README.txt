@@ -24,8 +24,8 @@ FTP-Brute is a tool used to do Dictionary Attack
   Repo in Github... and I don't test it, hehehe...but this
   Tools actually works before I edit it...If You found problems
   contact me:
-  - Instagram : <empty>
-  - Facebook  : <empty>
+  - Instagram : 
+  - Facebook  : Trh cknon
 - If there any Problems, dont be mad, I gonna fix it on the Next
   version
 +++ Tested (before) On:
